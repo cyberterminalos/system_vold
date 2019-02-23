@@ -169,7 +169,7 @@ cc_binary {
                 "libarcobbvolume",
             ],
         },
-        aosp: {
+        selenium: {
             supports_hw_fde: {
                 shared_libs: ["libcryptfs_hw"],
             },
